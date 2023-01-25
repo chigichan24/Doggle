@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "doggle"
 include(":sample")
+include(":doggle")
